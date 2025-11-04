@@ -1,0 +1,8 @@
+{
+  "name": "Veda",
+  "description": "An application that allows users to have real-time conversations with a powerful AI named Veda, capable of searching the web, finding places, performing complex tasks, and more, using Gemini's Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
